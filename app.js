@@ -1,3 +1,22 @@
+// I'm going to put all of my Javascript below instead of step by step
+
+let animal = prompt("Enter any animal you can think of:");
+let food = prompt("Enter any food you could dream of:");
+let adjective = prompt("Enter any adjective to describe something:");
+let place = prompt("Enter any place you could ever want to go:")
+let name = prompt("Enter any name you could imagine:")
+
+
+
+
+
+
+
+
+
+
+
+
 /* JAVASCRIPT MAD LIBS — FULL-BLOCK STARTER
    Write your OWN prompt questions and story. This file deliberately does not contain a completed answer.
    Keep your JavaScript here, not inside index.html.
