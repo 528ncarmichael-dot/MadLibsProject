@@ -3,8 +3,29 @@
 let animal = prompt("Enter any animal you can think of:");
 let food = prompt("Enter any food you could dream of:");
 let adjective = prompt("Enter any adjective to describe something:");
-let place = prompt("Enter any place you could ever want to go:")
-let name = prompt("Enter any name you could imagine:")
+let place = prompt("Enter any place you could ever want to go:");
+let name = prompt("Enter any name you could imagine:");
+let object = prompt("Enter any object want:");
+let numberOne = Number(prompt("Enter any number (NOT 67):"));
+let numberTwo = Number(prompt("Enter any number (CANNOT BE ZER0, 0):"));
+
+console.log("Animal type:", typeof animal);
+console.log("Number type:", typeof numberOne);
+animal = animal + " in a business suit"
+let message = "Meet " + animal;
+console.log(message);
+
+let addition = numberOne + numberTwo;
+let subtraction = numberOne - numberTwo;
+let multiplication = numberOne * numberTwo;
+let division = numberOne / numberTwo;
+let exponentiation = numberOne ** numberTwo;
+console.log("Addition:", addition);
+console.log("Subtraction:", subtraction);
+console.log("Multplication:", multiplication);
+console.log("Division:", division);
+console.log("Remainder:", remainder);
+console.log("Exponentiation:", exponentiation);
 
 
 
