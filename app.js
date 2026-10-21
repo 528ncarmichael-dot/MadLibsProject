@@ -27,9 +27,9 @@ console.log("Division:", division);
 console.log("Remainder:", remainder);
 console.log("Exponentiation:", exponentiation);
 
+let story = `<p>Once upon a time, ${name} walked into ${place} with a ${object} and accidentally called the boss a ${adjective} ${animal}. To recover, ${name} offered the boss some ${food} and claimed to have ${addition} years of experience. The boss then asked a single math question in response to see if he was lying: “what is ${numberOne} minus ${numberTwo}. WITHOUT USING A CALC ${name} ACTUALLY GOT IT RIGHT. ${name} said: “The answer is ${subtraction}...  duh.” Someway, somehow, the boss was so shocked that ${name} got it right without using a calculator so ${name} got promoted and received ${multiplication} dollars, divided into ${division} payments of course. Then out of nowhere the boss’s pet ${animal} shredded the paper into bits and ate most of it, be quiet this makes sense, BECAUSE, the brain cells of the ${animal} was an INSANE ${exponentiation} and hated to be insulted, (from earlier). The remaining pieces that weren’t in its stomach were ${remainder}. And so, the story goes that ${name} was hired on the spot. Meanwhile HR quit immediately, they were not dealing with all of that, but be honest, who would?</p>`;
 
-
-
+document.getElementById("madlib-output").innerHTML = story;
 
 
 
@@ -72,7 +72,7 @@ console.log("Exponentiation:", exponentiation);
 
 // PART 6 — DISPLAY ON THE WEBPAGE
 // TODO: Uncomment and complete the line below once your story variable exists.
-// document.getElementById("madlib-output").innerHTML = story;
+
 
 // FINAL: Add at least three meaningful comments describing your code.
 // TEST: Try TWO sets of answers and check the browser console for errors.
