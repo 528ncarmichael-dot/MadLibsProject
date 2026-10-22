@@ -1,4 +1,47 @@
 /* Customize this design to match your story. Keep the responsive Bootstrap layout. */
-body { background: #f4f6fa; }
-.story-output { min-height: 8rem; line-height: 1.7; white-space: normal; }
-.card { border-radius: 1rem; }
+body { 
+    background: #fff8e7;
+    color: #222;
+    font-family: Arial, sans-serif; 
+}
+
+header {
+    background-color: #c90000;
+    color: white;
+    border-bottom: 5px solid #ffcc00;
+}
+
+h1 {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.card { 
+    border: 2px solid #222;
+    border-radius: 8px; 
+}
+
+.card-body {
+    padding: 20px;
+}
+
+h2 {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+#madlib-output {
+    line-height: 1.7;
+    overflow-wrap: anywhere;
+}
+
+#madlib-output p {
+    padding: 10px;
+    background-color: #fff1c2;
+    border-left: 4px solid #c90000;
+}
+
+footer {
+    color: #666;
+    text-align: center;
+}
