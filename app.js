@@ -20,6 +20,7 @@ let subtraction = numberOne - numberTwo;
 let multiplication = numberOne * numberTwo;
 let division = numberOne / numberTwo;
 let exponentiation = numberOne ** numberTwo;
+let remainder = numberOne % numberTwo
 console.log("Addition:", addition);
 console.log("Subtraction:", subtraction);
 console.log("Multplication:", multiplication);
