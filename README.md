@@ -1,4 +1,4 @@
-# Superhero Mad Libs
+# Interview Mad Libs
 
 ## About
 This is a funny Mad Libs website. Users answer questions to create a silly story about a terrible interview.
