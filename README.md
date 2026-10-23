@@ -1,12 +1,28 @@
-# JavaScript Mad Libs Website — Full-Block Starter
+# Superhero Mad Libs
 
-## Student directions
-1. Use this repository as your own starting point (copy/template as directed by your teacher).
-2. Read the **assignment PDF** and **30-point rubric** from Google Classroom.
-3. In `app.js`, complete Parts 1–6. The comments are hints, **not completed solutions**.
-4. Customize `index.html` and `style.css`; keep the responsive Bootstrap structure and `id="madlib-output"`.
-5. Test with two sets of prompts. Open DevTools Console to inspect `typeof` and other output.
-6. Make at least **3 meaningful commits**, publish via GitHub Pages, and add your live link to the Monthly Website Gallery.
-7. Submit repository and live URLs on Google Classroom.
+## About
+This is a funny Mad Libs website. Users answer questions to create a silly story about a terrible interview.
 
-**No loops, functions, conditionals, or DOM research required.** The single DOM output statement is provided as a pattern.
+## Features
+- Asks users for words and numbers.
+- Creates a funny, personalized interview story.
+- Uses basic JavaScript variables and math.
+- Displays the story directly on the webpage.
+- Uses a responsive Bootstrap layout.
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- Bootstrap 5
+
+## How to Play
+1. Open the website.
+2. Click the button to start.
+3. Answer all questions.
+4. Read your hilarious interview story.
+
+## Purpose
+This project helped me practice JavaScript prompts, variables, data types, string concatenation, and math operators.
+
+**Made for Honors Advanced Web Design. WDPP Year 2**
